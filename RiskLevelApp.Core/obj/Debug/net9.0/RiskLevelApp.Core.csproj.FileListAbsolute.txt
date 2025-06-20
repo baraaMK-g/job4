@@ -1,0 +1,11 @@
+F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\bin\Debug\net9.0\RiskLevelApp.Core.deps.json
+F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\bin\Debug\net9.0\RiskLevelApp.Core.dll
+F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\bin\Debug\net9.0\RiskLevelApp.Core.pdb
+F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.AssemblyInfoInputs.cache
+F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.AssemblyInfo.cs
+F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.csproj.CoreCompileInputs.cache
+F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.dll
+F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\refint\RiskLevelApp.Core.dll
+F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.pdb
+F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\ref\RiskLevelApp.Core.dll
