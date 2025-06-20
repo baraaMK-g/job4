@@ -5,6 +5,7 @@ F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Cor
 F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.AssemblyInfoInputs.cache
 F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.AssemblyInfo.cs
 F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.csproj.CoreCompileInputs.cache
+F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.sourcelink.json
 F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.dll
 F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\refint\RiskLevelApp.Core.dll
 F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.pdb

@@ -5,6 +5,7 @@ F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Tests\obj\Debug\net9.0\RiskLevelApp.Te
 F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Tests\obj\Debug\net9.0\RiskLevelApp.Tests.AssemblyInfoInputs.cache
 F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Tests\obj\Debug\net9.0\RiskLevelApp.Tests.AssemblyInfo.cs
 F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Tests\obj\Debug\net9.0\RiskLevelApp.Tests.csproj.CoreCompileInputs.cache
+F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Tests\obj\Debug\net9.0\RiskLevelApp.Tests.sourcelink.json
 F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Tests\bin\Debug\net9.0\testhost.dll
 F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Tests\bin\Debug\net9.0\testhost.exe
 F:\study\Study_Y4\s2\CChomeB\RiskLevelApp.Tests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll

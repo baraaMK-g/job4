@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RiskLevelApp.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f9f3fecef54983e099c6b75e0a69ba3ac1e7d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("RiskLevelApp.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RiskLevelApp.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

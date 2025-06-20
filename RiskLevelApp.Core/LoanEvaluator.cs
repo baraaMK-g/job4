@@ -1,9 +1,9 @@
-﻿//after factoring
+﻿//after factoring  
 namespace LoanApp
 { 
-    public static class LoanEvaluator
+    public class LoanEvaluator
     {
-        public static string GetLoanEligibility(int income, bool hasJob, int creditScore, int dependents, bool ownsHouse)
+        public string GetLoanEligibility(int income, bool hasJob, int creditScore, int dependents, bool ownsHouse)
         {
             if (income < 2000)
                 return "Not Eligible";
@@ -14,7 +14,7 @@ namespace LoanApp
             return EvaluateUnemployed(income, creditScore, dependents, ownsHouse);
         }
 
-        private static string EvaluateEmployed(int creditScore, int dependents, bool ownsHouse)
+         public string EvaluateEmployed(int creditScore, int dependents, bool ownsHouse)
         {
             if (creditScore >= 700)
             {
@@ -31,7 +31,7 @@ namespace LoanApp
             return "Not Eligible";
         }
 
-        private static string EvaluateUnemployed(int income, int creditScore, int dependents, bool ownsHouse)
+        public string EvaluateUnemployed(int income, int creditScore, int dependents, bool ownsHouse)
         {
             if (creditScore >= 750 && income > 5000 && ownsHouse)
                 return "Eligible";
